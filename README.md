@@ -36,9 +36,10 @@ No Blender or full 3D software required.
 
 # Requirements
 
-- Python 3
-- pygltflib
-- tkinter
+- Python 3.7+
+- tkinter (included in most Python installs)
+
+No third-party packages required.
 
 Install dependencies:
 
@@ -50,10 +51,16 @@ pip install pygltflib
 
 # Usage
 
-Run the script:
+Run:
 
 ```bash
 python glb_material_editor.py
+```
+
+Or open a model directly:
+
+```bash
+python glb_material_editor.py path/to/model.glb
 ```
 
 Steps:
