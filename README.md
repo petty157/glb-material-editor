@@ -53,7 +53,7 @@ pip install pygltflib
 Run the script:
 
 ```bash
-python main.py
+python glb_material_editor.py
 ```
 
 Steps:
