@@ -29,7 +29,8 @@ No Blender or full 3D software required.
 
 # Screenshot
 
-![Screenshot](screenshot.png)
+<img width="727" height="478" alt="image" src="https://github.com/user-attachments/assets/4c9e71de-940f-445d-98ac-f64c9f356272" />
+
 
 ---
 
